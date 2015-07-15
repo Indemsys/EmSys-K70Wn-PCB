@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\__My\Статьи\EmSysK70Wn\Git\EMSYS_K70Wn_v1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=emsys_k70wn_v1-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=emsys_k70wn_v1-slotholes.txt|LayerPairs=gtl,gbl

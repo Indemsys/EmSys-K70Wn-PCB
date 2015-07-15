@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: D:\__My\Статьи\EmSysK70Wn\Git\EMSYS_K70Wn_v1.PcbDoc
+RuleKind=Clearance|RuleName=Via|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance DDR|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=With|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Default|Scope=Board|Minimum=2.95
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width DDR|Scope=Board|Minimum=2.95
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance ETHERNET|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width WiFi Ant|Scope=Board|Minimum=4.96
+RuleKind=Clearance|RuleName=HV poly|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=ANT gap|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Keepout|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=GNDTop|Scope=Board|Minimum=7.87

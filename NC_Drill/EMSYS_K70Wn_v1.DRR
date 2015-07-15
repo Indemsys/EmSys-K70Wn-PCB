@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: EMSYS_K70Wn_v1.PcbDoc   15.07.2015  13:28:40
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : EMSYS_K70Wn_v1-RoundHoles.TXT
+ASCII SlotHoles File : EMSYS_K70Wn_v1-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.15mm (5.905mil)        Round          1225             1836.61 mm (72.31 Inch)
+T2        0.3mm (11.811mil)        Round          196              635.88 mm (25.03 Inch)
+T3        0.9mm (35.433mil)        Round          12               80.29 mm (3.16 Inch)
+T4        1mm (39.37mil)           Round          10               110.75 mm (4.36 Inch)
+T5        1.1mm (43.307mil)        Round          1                0.00 mm (0.00 Inch)
+T6        1.1mm (43.307mil)        Slot           1                7242.54 mm (285.14 Inch)
+T7        1.7mm (66.929mil)        Round          2                15.75 mm (0.62 Inch)
+T8        2.1mm (82.677mil)        Round          3                186.24 mm (7.33 Inch)
+T9        0.7mm (27.559mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T10       0.8mm (31.496mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T11       1mm (39.37mil)           Round          3         NPTH   131.36 mm (5.17 Inch)
+T12       1.2mm (47.244mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T13       1.3mm (51.181mil)        Round          3         NPTH   77.41 mm (3.05 Inch)
+T14       2.1mm (82.677mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T15       3.25mm (127.953mil)      Round          2         NPTH   11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            1462             10328.27 mm (406.62 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

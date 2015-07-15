@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: EMSYS_K70Wn_v1.GBR   15.07.2015  13:27:43
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Component Side                          
+.GP1                Ground Plane 1                          
+.G1                 Inner Layer 1                           
+.G2                 Inner Layer 2                           
+.GP2                Power Plane                             
+.G3                 Inner Layer 3                           
+.GP3                Ground Plane 2                          
+.GBL                Solder Side                             
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+------------------------------------------------------------------------------------------
